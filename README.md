@@ -10,4 +10,4 @@ https://mperea9.github.io/website/
 
 Hosted on Amazon Web Services:
 
-https://main.d11k9ytxxb4p21.amplifyapp.com/
+https://master.d11k9ytxxb4p21.amplifyapp.com/
