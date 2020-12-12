@@ -10,6 +10,11 @@
       "StackName": "amplify-website-dev-43447",
       "StackId": "arn:aws:cloudformation:us-east-2:104621970905:stack/amplify-website-dev-43447/0bd1a590-3c6e-11eb-9746-06eba8d6f1ae",
       "AmplifyAppId": "d2tld5rbt1lm56"
+    },
+    "categories": {
+      "auth": {
+        "cognitoe121575a": {}
+      }
     }
   }
 }
