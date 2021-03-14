@@ -3,7 +3,7 @@ Personal Website Updated
 
 Tools: SublimeText, Amazon Web Services, GitHub, Terminal
 
-Languages: HTML and CSS
+Languages: HTML, CSS, Git
 
 
 Hosted on GitHub Pages:
