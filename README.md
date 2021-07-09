@@ -1,7 +1,5 @@
 # website
-(Previous Website)
-
-Personal Website Updated
+Previous Website
 
 Tools: SublimeText, Amazon Web Services, GitHub, Terminal
 
